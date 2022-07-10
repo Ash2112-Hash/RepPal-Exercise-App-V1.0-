@@ -1,1 +1,1 @@
-# RepPal-Exercise-App-V1.0-
+# RepPal: Exercise App (V 1.0)
